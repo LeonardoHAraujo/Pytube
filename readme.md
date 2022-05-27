@@ -1,5 +1,5 @@
-Título: Pytube
+# Pytube
 
-Autor: Leonardo Araújo
+*Powered by Leonardo Araújo*
 
-Script Python simples para downloads de vídeos do youtube.
+Simple Python script for youtube video downloads.
